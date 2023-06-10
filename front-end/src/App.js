@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import Forgot from "./form/Forgot";
 import Login from "./form/Login";
 import Register from "./form/Register";
-import Home from "./Homee";
+import Home from "./Home";
 import bg from './assets/BG1.png';
 
 function App() {
