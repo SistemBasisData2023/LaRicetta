@@ -26,4 +26,74 @@ An Admin user manages the website as a whole except changing the website's schem
 3. Delete an account
 
 
-## Project details
+## SQL tables
+
+*1. Admin*
+
+The admin table contains the admin accounts. This table consists of these attributes:
+<pre>
+admin_id
+username
+email
+password
+</pre>
+
+*2. Users*
+
+The users table contains the regular accounts. This table consists of these attributes:
+<pre>
+user_id
+full_name
+username
+email
+password
+profile_pic
+</pre>
+
+*3. Recipe*
+
+The recipe table contains the recipe details. This table consists of these attributes:
+<pre>
+recipe_id
+user_id
+recipe_name
+ingredients
+steps
+view_number
+</pre>
+
+*4. Rating*
+
+The rating table contains the ratings for recipes. This table consists of these attributes:
+<pre>
+rating_id
+user_id
+recipe_id
+rating
+</pre>
+
+*5. Comment*
+
+The comment table contains the comments for recipes. This table consists of these attributes:
+<pre>
+comment_id
+user_id
+recipe_id
+rating
+</pre>
+
+*6. Image*
+
+The image table contains the images for recipes. This table consists of these attributes:
+<pre>
+recipe_id
+image
+</pre>
+
+*7. Following*
+
+The following contains the accounts that user(s) follow. This table consists of these attributes:
+<pre>
+user_id
+followed_user_id
+</pre>
