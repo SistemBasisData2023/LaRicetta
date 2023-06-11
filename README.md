@@ -4,7 +4,7 @@ Kelompok D4 - Recipes Website
 This README describes the making of LaRicetta, an online cookbook with recipes made by the people for the people to implement and be inspired.
 
 ## Project overview
-This project was created as the final assignment of the 2022/2023 _Database Systems and Lab_ (ENCE604016) course for students in Computer Engineering major by Department of Electrical Engineering, Faculty of Engineering, University of Indonesia. The group that worked on the project, D4, consists of these student:
+This project was created as the final assignment of the 2022/2023 _Database Systems and Lab_ (ENCE604016) course for students in Computer Engineering major by Department of Electrical Engineering, Faculty of Engineering, University of Indonesia. The group that worked on the project, D4, consisted of these students:
 
 1. Alifya Zhafira Ananda
 2. Muhammad Rizky Utomo
