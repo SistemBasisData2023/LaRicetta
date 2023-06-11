@@ -97,3 +97,16 @@ The following contains the accounts that user(s) follow. This table consists of 
 user_id
 followed_user_id
 </pre>
+
+## Relational Diagrams
+Entity-relationship diagram (ERD)
+
+![ERD](https://github.com/SistemBasisData2023/LaRicetta/assets/91055987/46a69e98-89c9-4c34-802e-3b37cc72219e)
+
+Unified modeling language (UML)
+
+![UML](https://github.com/SistemBasisData2023/LaRicetta/assets/91055987/bb6ba1c8-f567-4687-83cc-fe2c42310aac)
+
+## Flowchart
+
+![Flowchart](https://github.com/SistemBasisData2023/LaRicetta/assets/91055987/85cdb126-628e-4ee8-a271-8f1f4c49844e)
